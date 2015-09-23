@@ -7,8 +7,17 @@
   <META NAME="Keywords" CONTENT="">
   <META NAME="Description" CONTENT="">
  </HEAD>
-hello i will present u the parkour
+<font style="font-size:50px;" Face="Impact">The Parkour </font>
  <BODY>
-  <img src=http://static.wixstatic.com/media/055b22_1fc1ce3f65634a6b82cc76844ee803df.jpg>
+   <ul>
+  <li><a href="page2.html">L'histoire</a></li>
+  <li><a href="page3.html">Lieux De Pratique</a></li>
+  <li><a href="page4.html">geste technique</a></li>
+</ul>
+<a href="pagegif.html"><img src="http://static.wixstatic.com/media/055b22_1fc1ce3f65634a6b82cc76844ee803df.jpg" width="1250" height="900" href="pagegif.html"></a> 
+<br>
+
+<a href=https://fr.wikipedia.org/wiki/Parkour><b><i>Source</i></b></a>
+<p>Me contacter: </p><a href="mailto:matyros@rocket.mail">matyros@rocket.mail</a>
  </BODY>
 </HTML>
