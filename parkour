@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
  <HEAD>
   <TITLE> THE Parkour </TITLE>
@@ -7,17 +7,20 @@
   <META NAME="Keywords" CONTENT="">
   <META NAME="Description" CONTENT="">
  </HEAD>
-<font style="font-size:50px;" Face="Impact">The Parkour </font>
- <BODY>
+<font style="font-size:50px;" Face="Impact" color="white">The Parkour </font>
+ <BODY bgcolor="black">
    <ul>
-  <li><a href="page2.html">L'histoire</a></li>
-  <li><a href="page3.html">Lieux De Pratique</a></li>
-  <li><a href="page4.html">geste technique</a></li>
+  <li><a href="page2.html"><font color="yellow">L'histoire</font></a></li>
+  <li><a href="page3.html"><font color="orange">Lieux De Pratique</font></a></li>
+  <li><a href="page4.html"><font color="red">geste technique</a></font></li>
 </ul>
 <a href="pagegif.html"><img src="http://static.wixstatic.com/media/055b22_1fc1ce3f65634a6b82cc76844ee803df.jpg" width="1250" height="900" href="pagegif.html"></a> 
 <br>
 
-<a href=https://fr.wikipedia.org/wiki/Parkour><b><i>Source</i></b></a>
-<p>Me contacter: </p><a href="mailto:matyros@rocket.mail">matyros@rocket.mail</a>
+<a href=https://fr.wikipedia.org/wiki/Parkour><b><i><font color="white">Source</font></i></b></a>
+<br>
+<br>
+<br>
+<p><font color="white">Me contacter:</font></p><a href="mailto:matyros@rocket.mail"><font color="white">matyros@rocket.mail</font></a>
  </BODY>
 </HTML>
